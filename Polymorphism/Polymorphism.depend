@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1500806276 source:c:\users\amar bathwal\desktop\cpp\polymorphism\farm.cpp
+	"farm.h"
+
+1500807721 c:\users\amar bathwal\desktop\cpp\polymorphism\farm.h
+	<string>
+
+1500807243 source:c:\users\amar bathwal\desktop\cpp\polymorphism\main.cpp
+	<iostream>
+	"farm.h"
+

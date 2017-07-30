@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1495052001 source:c:\users\amar bathwal\desktop\cpp\classuse\interface.cpp
+	<string>
+	<iostream>
+	"interface.h"
+
+1495051989 c:\users\amar bathwal\desktop\cpp\classuse\interface.h
+	<string>
+	<iostream>
+
+1495044813 source:c:\users\amar bathwal\desktop\cpp\classuse\useinterface.cpp
+	<string>
+	<iostream>
+	"interface.h"
+

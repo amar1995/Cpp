@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1500751231 source:c:\users\amar bathwal\desktop\cpp\practice\main.cpp
+	<iostream>
+	<string>
+	"Test.h"
+
+1500751333 c:\users\amar bathwal\desktop\cpp\practice\test.h
+	<string>
+
+1500751333 source:c:\users\amar bathwal\desktop\cpp\practice\test.cpp
+	"Test.h"
+
